@@ -82,7 +82,7 @@ const Index = () => {
                 <div className="w-16 h-16 bg-primary/10 rounded-full flex items-center justify-center mx-auto mb-4">
                   <Icon name="Users" className="text-primary" size={32} />
                 </div>
-                <CardTitle className="text-4xl font-bold text-primary">2,847</CardTitle>
+                <CardTitle className="text-4xl font-bold text-primary">127</CardTitle>
                 <CardDescription>Активных охотников</CardDescription>
               </CardHeader>
             </Card>
